@@ -4,8 +4,13 @@ TASK MANAGEMENT API WITH CRUD + TDD + VALIDATION + GLOBAL EXCEPTION HANDLING + S
 
 A SpringBoot application for managing Task API with RESTful endpoints.
 
-FEATURES
 *********************
+
+This is a screenshot of the application in action:
+
+![Application Screenshot](assets/UI.png "Task Manager UI")
+
+FEATURES
 Retrieve all Tasks
 Create new Task
 Delete a Task by Id
